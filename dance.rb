@@ -1,8 +1,8 @@
 #
 
 class Ginger
-  ARMS = [" /|\\ ", "--|--", " \\|/ ", " |/ ", "  \\|", "  // ", " \\\\ ", ]
-  LEGS = [" / \\ ", "-- --", " | | "]
+  ARMS = [' /|\\ ', '--|--', ' \\|/ ', ' |/ ', '  \\|', '  // ', ' \\\\ ']
+  LEGS = [' / \\ ', '-- --', ' | | ', ' | \\ ', ' / | ']
 
   def random_legs
     LEGS[rand(LEGS.size)]
@@ -20,12 +20,17 @@ class Ginger
     "  |  "
   end
 
+  def spacer
+    puts "\n\n\n\n" # cursors can distract from the dancing awesomeness.
+  end
+
   def dance!
     puts "\e[H\e[2J" # Clears console in linux. Windows users: You're on your own.
     puts head
     puts random_arms
     puts abdomen
     puts random_legs
+    puts spacer
   end
 end
 

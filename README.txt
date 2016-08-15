@@ -41,22 +41,22 @@ The first installmant is more of a dancing stick figure (appearing roughly 10min
 above conversation) The lady approves, but is not entirely satisfied, but what could I do? My
 lunchbreak was up...
 
-The next phase will be to write a Shoes version. Maybe.
+The next phase will be to write a Shoes version. Maybe. (This was written in 2010 - so maybe not)
 
 
 Licence? What licence? This code is released under the FMDIDGAD Licence (although who Frankly is,
-I don't know - I've never actually seen that film.) War and Tea: I will happily repay the amount that
-I charged you for this software provided this code has be forensically proven by a government CSI dept
-to have been the sole cause of your computer exploding, your house being razed to the ground with your
-charred cat/dog remains inside, and that this code engineered toxic fumes destroying your entire street.
-For anything less, including lost time, money, limbs or consciousness, no warranty.   Enjoy!
-
+I don't know - I've never actually seen that film.) War and Tea: I will happily repay the amount
+that I charged you for this software provided this code has be forensically proven by a
+government CSI dept to have been the sole cause of your computer exploding, your house being
+razed to the ground with your charred cat/dog remains inside, and that this code engineered toxic
+fumes destroying your entire street. For anything less, including lost time, money, limbs or
+consciousness, no warranty.   Enjoy!
 
 
 
 
 What? You need usage instructions too? Shall I install it for you too? Personally scrub your ram
-afterwards? Sit behind you humming "Did you know the muffin man"? Yeesh... Install a linux distro,
+afterwards? Sit behind you humming "Did you know the muffin man"? Yeesh... From a *nix or OSX,
 install ruby, open a console or tty and type "ruby dance.rb" from within the folder with the
 dance.rb file in. Then watch the pretty stick figure, and press ctrl-c when you get bored.
 
